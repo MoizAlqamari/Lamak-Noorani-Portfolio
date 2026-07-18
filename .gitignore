@@ -137,6 +137,13 @@ dist
 !.yarn/sdks
 !.yarn/versions
 
+
+# Next.js
+.next/
+out/
+
+# Vercel
+.vercel/
 # Vite files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
